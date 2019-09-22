@@ -8,7 +8,7 @@
         "media": {
           "alt": "This is a picture",
           "title": "This is the title of the picture",
-          "href": "https://placehold.it/200x100"
+          "href": "https://picsum.photos/200/100"
         },
         "links": [
           {
@@ -29,7 +29,7 @@
         "media": {
           "alt": "This is a picture",
           "title": "This is the title of the picture",
-          "href": "https://placehold.it/200x100"
+          "href": "https://picsum.photos/200/101"
         },
         "links": [
           {
@@ -50,7 +50,7 @@
         "media": {
           "alt": "This is a picture",
           "title": "This is the title of the picture",
-          "href": "https://placehold.it/200x100"
+          "href": "https://picsum.photos/200/102"
         },
         "links": [
           {
@@ -76,7 +76,7 @@
         "media": {
           "alt": "This is a picture",
           "title": "This is the title of the picture",
-          "href": "https://placehold.it/200x100"
+          "href": "https://picsum.photos/200/103"
         },
         "links": [
           {

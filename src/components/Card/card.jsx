@@ -1,5 +1,10 @@
 import React from 'react'
 
+/**
+ * Is called by deck and takes in props and renders the content of the cards
+ * @param props
+ * @returns {*}
+ */
 export default props => {
     const card = props.cardData;
     return(
