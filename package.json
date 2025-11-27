@@ -11,10 +11,10 @@
     "eslint-plugin-react": "^7.14.3",
     "react": "16.9.0",
     "react-dom": "16.9.0",
-    "react-scripts": "3.1.2"
+    "react-scripts": "5.0.1"
   },
   "devDependencies": {
-    "react-styleguidist": "^9.1.16",
+    "react-styleguidist": "^13.1.4",
     "webpack": "^4.40.2"
   },
   "scripts": {
